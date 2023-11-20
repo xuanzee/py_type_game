@@ -3,7 +3,6 @@ __author__ = 'xuanzee'
 #Aspects to improve:
 #showing Chinese in each system/terminal?
 #auto set picture frame and command line window location
-#auto compile a list of animal names
 #then auto search size and res suitable and royalty free pictures of it (though need to keep local?)
 #graphic user interface setup; bubbly font.
 #default a terminal opening folder?
@@ -12,8 +11,6 @@ __author__ = 'xuanzee'
 #set up a testing code, e.g. check each step's different command and scenario.
 #put things in a different script and read-in?
 #scripts in different folder
-#a list of steps to complete
-#not constant prompting!
 
 from matplotlib import pyplot as plt
 from matplotlib import image as mpimg
