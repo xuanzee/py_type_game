@@ -13,19 +13,14 @@ __author__ = 'xuanzee'
 #put things in a different script and read-in?
 #scripts in different folder
 #a list of steps to complete
-#major release log add in MD~~
 #not constant prompting!
 
 from matplotlib import pyplot as plt
 from matplotlib import image as mpimg
 
-print('\nHi, Forrest!') #remove for public version.
+print('\nHello!')
 print('Let\'s type a word and see its picture!')
 print('(Hint: Try an animal or a transportation tool.)')
-
-
-#personal list; remove for the public version
-l0 = ['baba', 'forrest', 'mama', 'nainai', 'waigong', 'waipo', 'yeye', 'yongchen']
 
 #animal list, covering all letters except u and x; may separate into more detailed separations.
 l1 = ['ant', 'bat', 'bear', 'beaver', 'bee', 'bird', 'cat', 'cow', 'cheetah', 'dog', 'duck', 
@@ -52,7 +47,7 @@ l4 = ['bike', 'boat', 'bus', 'car', 'taxi', 'train', 'plane']
 l5 = ['kite','ring']
 
 #add all words together; to edit the l0 portion out for public version
-word_list = l0 + l1 + l2 + l3 + l4 + l5
+word_list = l1 + l2 + l3 + l4 + l5
 
 prompt = 1
 while prompt ==	1:
