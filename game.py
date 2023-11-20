@@ -37,7 +37,7 @@ l1 = ['ant', 'bat', 'bear', 'beaver', 'bee', 'bird', 'cat', 'cow', 'cheetah', 'd
 			'lion', 'monkey', 'mouse', 'newt', 'octopus', 'owl', 'panda', 'peacock',
 			'pig', 'penguin', 'quail', 'rabbit', 'shark', 'sloth', 'snail', 'snake', 
 			'spider', 
-			'tiger', 'turkey', 'turtle', 'vulture', 'woodpecker', 'yak', 'zebra']
+			'tiger', 'turkey', 'turtle', 'vulture', 'whale', 'woodpecker', 'yak', 'zebra']
 
 #nature
 l2 = ['tree']
