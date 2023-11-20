@@ -6,11 +6,10 @@ __author__ = 'xuanzee'
 #then auto search size and res suitable and royalty free pictures of it (though need to keep local?)
 #graphic user interface setup; bubbly font.
 #default a terminal opening folder?
-#set up easier push and pull sync update, between a certain local and the remote hub?
 #hide the list of words part?, or in a different script
 #set up a testing code, e.g. check each step's different command and scenario.
 #put things in a different script and read-in?
-#scripts in different folder
+#easy sync by cloud?
 
 from matplotlib import pyplot as plt
 from matplotlib import image as mpimg
