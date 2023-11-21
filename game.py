@@ -14,8 +14,7 @@ __author__ = 'xuanzee'
 from matplotlib import pyplot as plt
 from matplotlib import image as mpimg
 
-print('\nHello!')
-print('Let\'s type a word and see its picture!')
+print('\nHello! Let\'s type a word and see its picture!') #Can add personal name prompt.
 print('(Hint: Try an animal or a transportation tool.)')
 
 #animal list, covering all letters except u and x; may separate into more detailed separations.
@@ -27,7 +26,7 @@ l1 = ['ant', 'bat', 'bear', 'beaver', 'bee', 'bird', 'cat', 'cow', 'cheetah', 'd
 			 'koala', 
 			'lion', 'monkey', 'mouse', 'newt', 'octopus', 'owl', 'panda', 'peacock',
 			'pig', 'penguin', 'quail', 'rabbit', 'shark', 'sloth', 'snail', 'snake', 
-			'spider', 
+			'spider', 'squirrel',
 			'tiger', 'turkey', 'turtle', 'vulture', 'whale', 'woodpecker', 'yak', 'zebra']
 
 #nature
